@@ -1,0 +1,493 @@
+[INFO ] 2024-08-12 11:47:01.834 [main] DemoStoreTestng - Scenario execution started
+[INFO ] 2024-08-12 11:47:01.917 [main] DemoStoreTestng - Scenario execution over
+[INFO ] 2024-08-12 11:49:51.005 [main] DemoStoreTestng - Scenario execution started
+[INFO ] 2024-08-12 11:49:51.037 [main] DemoStoreTestng - Scenario execution over
+[DEBUG] 2024-08-12 11:59:28.539 [main] DemoStoreTestng - Captured screenshot for failed scenario: user opens new account
+[INFO ] 2024-08-12 12:01:18.391 [main] DemoStoreTestng - Scenario execution started
+[INFO ] 2024-08-12 12:01:18.437 [main] DemoStoreTestng - Scenario execution over
+[INFO ] 2024-08-12 12:03:14.934 [main] DemoStoreTestng - Scenario execution started
+[INFO ] 2024-08-12 12:03:14.984 [main] DemoStoreTestng - Scenario execution over
+[INFO ] 2024-08-12 12:04:41.855 [main] DemoStoreTestng - Scenario execution started
+[INFO ] 2024-08-12 12:04:41.890 [main] DemoStoreTestng - Scenario execution over
+[INFO ] 2024-08-12 12:06:22.435 [main] DemoStoreTestng - Scenario execution started
+[INFO ] 2024-08-12 12:06:48.868 [main] DemoStoreTestng - Scenario execution over
+[INFO ] 2024-08-12 12:07:43.519 [main] DemoStoreTestng - Scenario execution started
+[INFO ] 2024-08-12 12:07:59.232 [main] DemoStoreTestng - Scenario execution over
+[INFO ] 2024-08-12 12:08:43.563 [main] DemoStoreTestng - Scenario execution started
+[INFO ] 2024-08-12 12:08:56.877 [main] DemoStoreTestng - Scenario execution over
+[INFO ] 2024-08-12 12:29:19.911 [main] DemoStoreTestng - Scenario execution started
+[INFO ] 2024-08-12 12:29:34.193 [main] DemoStoreTestng - Scenario execution over
+[INFO ] 2024-08-12 12:29:40.479 [main] DemoStoreTestng - Scenario execution started
+[INFO ] 2024-08-12 12:29:53.422 [main] DemoStoreTestng - Scenario execution over
+[INFO ] 2024-08-12 13:51:07.452 [main] DemoStoreTestng - Scenario execution started
+[INFO ] 2024-08-12 13:51:24.270 [main] DemoStoreTestng - application opened
+[INFO ] 2024-08-12 13:51:25.379 [main] DemoStoreTestng - Entered username: <username>
+[INFO ] 2024-08-12 13:51:25.457 [main] DemoStoreTestng - Entered password: <password>
+[INFO ] 2024-08-12 13:51:27.207 [main] DemoStoreTestng - Clicked login button
+[INFO ] 2024-08-12 13:51:27.238 [main] DemoStoreTestng - https://parabank.parasoft.com/parabank/login.htm;jsessionid=BFDD8BBD0DEAABB71ED3D8CF493F75AF
+[INFO ] 2024-08-12 13:51:58.658 [main] DemoStoreTestng - Scenario execution over
+[INFO ] 2024-08-12 13:52:05.889 [main] DemoStoreTestng - Scenario execution started
+[INFO ] 2024-08-12 13:52:20.162 [main] DemoStoreTestng - application opened
+[INFO ] 2024-08-12 13:52:20.270 [main] DemoStoreTestng - Entered username: <username>
+[INFO ] 2024-08-12 13:52:20.364 [main] DemoStoreTestng - Entered password: <password>
+[INFO ] 2024-08-12 13:52:22.529 [main] DemoStoreTestng - Clicked login button
+[INFO ] 2024-08-12 13:52:22.553 [main] DemoStoreTestng - https://parabank.parasoft.com/parabank/login.htm;jsessionid=ACAC40F0BA1DE4D216CC348138F8F085
+[INFO ] 2024-08-12 13:52:42.897 [main] DemoStoreTestng - screenshot captured
+[DEBUG] 2024-08-12 13:52:42.897 [main] DemoStoreTestng - Captured screenshot for failed scenario: user opens new account
+[INFO ] 2024-08-12 13:52:42.897 [main] DemoStoreTestng - Scenario execution over
+[INFO ] 2024-08-12 14:07:08.144 [main] DemoStoreTestng - Scenario execution started
+[INFO ] 2024-08-12 14:07:19.972 [main] DemoStoreTestng - application opened
+[INFO ] 2024-08-12 14:07:20.097 [main] DemoStoreTestng - Entered username: <username>
+[INFO ] 2024-08-12 14:07:20.175 [main] DemoStoreTestng - Entered password: <password>
+[INFO ] 2024-08-12 14:07:21.474 [main] DemoStoreTestng - Clicked login button
+[INFO ] 2024-08-12 14:07:21.490 [main] DemoStoreTestng - https://parabank.parasoft.com/parabank/login.htm;jsessionid=F10B071B150FCED1E4DC1B610AFE8795
+[INFO ] 2024-08-12 14:07:41.798 [main] DemoStoreTestng - screenshot captured
+[DEBUG] 2024-08-12 14:07:41.798 [main] DemoStoreTestng - Captured screenshot for failed scenario: user opens new account
+[INFO ] 2024-08-12 14:07:41.798 [main] DemoStoreTestng - Scenario execution over
+[INFO ] 2024-08-12 14:08:20.433 [main] DemoStoreTestng - Scenario execution started
+[INFO ] 2024-08-12 14:08:31.741 [main] DemoStoreTestng - application opened
+[INFO ] 2024-08-12 14:08:31.866 [main] DemoStoreTestng - Entered username: john_andrew
+[INFO ] 2024-08-12 14:08:31.944 [main] DemoStoreTestng - Entered password: John@1245
+[INFO ] 2024-08-12 14:08:33.257 [main] DemoStoreTestng - Clicked login button
+[INFO ] 2024-08-12 14:08:33.320 [main] DemoStoreTestng - https://parabank.parasoft.com/parabank/overview.htm
+[INFO ] 2024-08-12 14:08:33.411 [main] DemoStoreTestng - Accounts overview page opened
+[INFO ] 2024-08-12 14:08:33.893 [main] DemoStoreTestng - Clicked open new account
+[INFO ] 2024-08-12 14:08:33.918 [main] DemoStoreTestng - https://parabank.parasoft.com/parabank/openaccount.htm
+[INFO ] 2024-08-12 14:08:33.959 [main] DemoStoreTestng - Open Account page opened
+[INFO ] 2024-08-12 14:08:34.088 [main] DemoStoreTestng - Selected account type: CHECKING
+[INFO ] 2024-08-12 14:08:34.313 [main] DemoStoreTestng - Given account id: 13788
+[INFO ] 2024-08-12 14:08:34.380 [main] DemoStoreTestng - Clicked open new account button
+[INFO ] 2024-08-12 14:08:34.380 [main] DemoStoreTestng - Checked account number
+[INFO ] 2024-08-12 14:08:34.380 [main] DemoStoreTestng - Clicked account number link
+[INFO ] 2024-08-12 14:08:34.380 [main] DemoStoreTestng - Checked account details
+[INFO ] 2024-08-12 14:08:34.390 [main] DemoStoreTestng - Clicked fund transfer received link
+[INFO ] 2024-08-12 14:08:34.390 [main] DemoStoreTestng - Checked account transaction details
+[INFO ] 2024-08-12 14:08:34.391 [main] DemoStoreTestng - Logs out of the application
+[INFO ] 2024-08-12 14:08:34.393 [main] DemoStoreTestng - Scenario execution over
+[INFO ] 2024-08-12 16:10:44.927 [main] DemoStoreTestng - Scenario execution started
+[INFO ] 2024-08-12 16:10:57.188 [main] DemoStoreTestng - application opened
+[INFO ] 2024-08-12 16:10:57.351 [main] DemoStoreTestng - Entered username: john_andrew
+[INFO ] 2024-08-12 16:10:57.445 [main] DemoStoreTestng - Entered password: John@1245
+[INFO ] 2024-08-12 16:10:58.953 [main] DemoStoreTestng - Clicked login button
+[INFO ] 2024-08-12 16:10:58.987 [main] DemoStoreTestng - https://parabank.parasoft.com/parabank/login.htm;jsessionid=0DB87874538463021540A53E4D82C7F4
+[INFO ] 2024-08-12 16:11:15.824 [main] DemoStoreTestng - Scenario execution over
+[INFO ] 2024-08-12 16:13:25.834 [main] DemoStoreTestng - Scenario execution started
+[INFO ] 2024-08-12 16:13:37.907 [main] DemoStoreTestng - application opened
+[INFO ] 2024-08-12 16:13:38.128 [main] DemoStoreTestng - Entered username: john_andrew
+[INFO ] 2024-08-12 16:13:38.244 [main] DemoStoreTestng - Entered password: John@1245
+[INFO ] 2024-08-12 16:13:40.505 [main] DemoStoreTestng - Clicked login button
+[INFO ] 2024-08-12 16:13:40.533 [main] DemoStoreTestng - https://parabank.parasoft.com/parabank/overview.htm
+[INFO ] 2024-08-12 16:13:40.605 [main] DemoStoreTestng - Accounts overview page opened
+[INFO ] 2024-08-12 16:13:41.160 [main] DemoStoreTestng - Clicked open new account
+[INFO ] 2024-08-12 16:13:41.183 [main] DemoStoreTestng - https://parabank.parasoft.com/parabank/openaccount.htm
+[ERROR] 2024-08-12 16:13:41.223 [main] DemoStoreTestng - Failed to open account page
+[INFO ] 2024-08-12 16:13:41.515 [main] DemoStoreTestng - screenshot captured
+[DEBUG] 2024-08-12 16:13:41.515 [main] DemoStoreTestng - Captured screenshot for failed scenario: user opens new account
+[INFO ] 2024-08-12 16:13:41.515 [main] DemoStoreTestng - Scenario execution over
+[INFO ] 2024-08-12 16:15:31.296 [main] DemoStoreTestng - Scenario execution started
+[INFO ] 2024-08-12 16:15:45.449 [main] DemoStoreTestng - application opened
+[INFO ] 2024-08-12 16:15:45.673 [main] DemoStoreTestng - Entered username: john_andrew
+[INFO ] 2024-08-12 16:15:45.801 [main] DemoStoreTestng - Entered password: John@1245
+[INFO ] 2024-08-12 16:15:47.774 [main] DemoStoreTestng - Clicked login button
+[INFO ] 2024-08-12 16:15:47.792 [main] DemoStoreTestng - https://parabank.parasoft.com/parabank/overview.htm
+[INFO ] 2024-08-12 16:15:47.860 [main] DemoStoreTestng - Accounts overview page opened
+[INFO ] 2024-08-12 16:15:48.397 [main] DemoStoreTestng - Clicked open new account
+[INFO ] 2024-08-12 16:15:48.424 [main] DemoStoreTestng - https://parabank.parasoft.com/parabank/openaccount.htm
+[ERROR] 2024-08-12 16:15:48.497 [main] DemoStoreTestng - Failed to open account page
+[INFO ] 2024-08-12 16:15:48.783 [main] DemoStoreTestng - screenshot captured
+[DEBUG] 2024-08-12 16:15:48.783 [main] DemoStoreTestng - Captured screenshot for failed scenario: user opens new account
+[INFO ] 2024-08-12 16:15:48.783 [main] DemoStoreTestng - Scenario execution over
+[INFO ] 2024-08-12 16:21:40.522 [main] DemoStoreTestng - Scenario execution started
+[INFO ] 2024-08-12 16:21:51.928 [main] DemoStoreTestng - application opened
+[INFO ] 2024-08-12 16:21:52.142 [main] DemoStoreTestng - Entered username: john_andrew
+[INFO ] 2024-08-12 16:21:52.246 [main] DemoStoreTestng - Entered password: John@1245
+[INFO ] 2024-08-12 16:21:54.295 [main] DemoStoreTestng - Clicked login button
+[INFO ] 2024-08-12 16:21:54.317 [main] DemoStoreTestng - https://parabank.parasoft.com/parabank/overview.htm
+[INFO ] 2024-08-12 16:21:54.391 [main] DemoStoreTestng - Accounts overview page opened
+[INFO ] 2024-08-12 16:21:54.866 [main] DemoStoreTestng - Clicked open new account
+[INFO ] 2024-08-12 16:21:54.922 [main] DemoStoreTestng - https://parabank.parasoft.com/parabank/openaccount.htm
+[INFO ] 2024-08-12 16:21:54.938 [main] DemoStoreTestng - Open Account page opened
+[INFO ] 2024-08-12 16:21:55.119 [main] DemoStoreTestng - Selected account type: CHECKING
+[INFO ] 2024-08-12 16:21:55.925 [main] DemoStoreTestng - Given account id: 13566
+[INFO ] 2024-08-12 16:21:55.996 [main] DemoStoreTestng - Clicked open new account button
+[INFO ] 2024-08-12 16:21:56.028 [main] DemoStoreTestng - Account success message: 
+[FATAL] 2024-08-12 16:21:56.056 [main] DemoStoreTestng - Account not opened
+[INFO ] 2024-08-12 16:21:56.767 [main] DemoStoreTestng - Clicked account number link
+[ERROR] 2024-08-12 16:21:56.789 [main] DemoStoreTestng - Account page not found
+[INFO ] 2024-08-12 16:21:56.855 [main] DemoStoreTestng - Clicked fund transfer received link
+[INFO ] 2024-08-12 16:22:17.159 [main] DemoStoreTestng - screenshot captured
+[DEBUG] 2024-08-12 16:22:17.160 [main] DemoStoreTestng - Captured screenshot for failed scenario: user opens new account
+[INFO ] 2024-08-12 16:22:17.161 [main] DemoStoreTestng - Scenario execution over
+[INFO ] 2024-08-12 16:23:27.920 [main] DemoStoreTestng - Scenario execution started
+[INFO ] 2024-08-12 16:23:42.150 [main] DemoStoreTestng - application opened
+[INFO ] 2024-08-12 16:23:42.316 [main] DemoStoreTestng - Entered username: john_andrew
+[INFO ] 2024-08-12 16:23:42.404 [main] DemoStoreTestng - Entered password: John@1245
+[INFO ] 2024-08-12 16:23:43.714 [main] DemoStoreTestng - Clicked login button
+[INFO ] 2024-08-12 16:23:43.761 [main] DemoStoreTestng - https://parabank.parasoft.com/parabank/login.htm;jsessionid=BF60AF5E3292E89F77DC733ED8AB7FE8
+[INFO ] 2024-08-12 16:24:06.804 [main] DemoStoreTestng - Scenario execution started
+[INFO ] 2024-08-12 16:24:18.620 [main] DemoStoreTestng - application opened
+[INFO ] 2024-08-12 16:24:18.771 [main] DemoStoreTestng - Entered username: john_andrew
+[INFO ] 2024-08-12 16:24:18.871 [main] DemoStoreTestng - Entered password: John@1245
+[INFO ] 2024-08-12 16:24:20.431 [main] DemoStoreTestng - Clicked login button
+[INFO ] 2024-08-12 16:24:20.452 [main] DemoStoreTestng - https://parabank.parasoft.com/parabank/login.htm;jsessionid=B4B08BD8B1509474E0A2863A5830AC26
+[INFO ] 2024-08-12 16:24:32.502 [main] DemoStoreTestng - Scenario execution over
+[INFO ] 2024-08-12 16:25:52.693 [main] DemoStoreTestng - Scenario execution started
+[INFO ] 2024-08-12 16:26:04.362 [main] DemoStoreTestng - application opened
+[INFO ] 2024-08-12 16:26:04.549 [main] DemoStoreTestng - Entered username: john_andrew
+[INFO ] 2024-08-12 16:26:04.657 [main] DemoStoreTestng - Entered password: John@1245
+[INFO ] 2024-08-12 16:26:06.047 [main] DemoStoreTestng - Clicked login button
+[INFO ] 2024-08-12 16:26:06.073 [main] DemoStoreTestng - https://parabank.parasoft.com/parabank/overview.htm
+[INFO ] 2024-08-12 16:26:06.132 [main] DemoStoreTestng - Accounts overview page opened
+[INFO ] 2024-08-12 16:26:06.770 [main] DemoStoreTestng - Clicked open new account
+[INFO ] 2024-08-12 16:26:06.793 [main] DemoStoreTestng - https://parabank.parasoft.com/parabank/openaccount.htm
+[INFO ] 2024-08-12 16:26:06.806 [main] DemoStoreTestng - Open Account page opened
+[INFO ] 2024-08-12 16:26:06.982 [main] DemoStoreTestng - Selected account type: CHECKING
+[INFO ] 2024-08-12 16:26:07.863 [main] DemoStoreTestng - Given account id: 13677
+[INFO ] 2024-08-12 16:26:08.009 [main] DemoStoreTestng - Clicked open new account button
+[INFO ] 2024-08-12 16:26:08.069 [main] DemoStoreTestng - Account success message: 
+[FATAL] 2024-08-12 16:26:08.123 [main] DemoStoreTestng - Account not opened
+[INFO ] 2024-08-12 16:26:08.867 [main] DemoStoreTestng - Clicked account number link
+[ERROR] 2024-08-12 16:26:09.061 [main] DemoStoreTestng - Account page not found
+[INFO ] 2024-08-12 16:26:09.151 [main] DemoStoreTestng - Clicked fund transfer received link
+[INFO ] 2024-08-12 16:26:29.588 [main] DemoStoreTestng - screenshot captured
+[DEBUG] 2024-08-12 16:26:29.592 [main] DemoStoreTestng - Captured screenshot for failed scenario: user opens new account
+[INFO ] 2024-08-12 16:26:29.592 [main] DemoStoreTestng - Scenario execution over
+[INFO ] 2024-08-12 16:33:15.435 [main] DemoStoreTestng - Scenario execution started
+[INFO ] 2024-08-12 16:33:31.786 [main] DemoStoreTestng - application opened
+[INFO ] 2024-08-12 16:33:31.985 [main] DemoStoreTestng - Entered username: john_andrew
+[INFO ] 2024-08-12 16:33:32.100 [main] DemoStoreTestng - Entered password: John@1245
+[INFO ] 2024-08-12 16:33:33.834 [main] DemoStoreTestng - Clicked login button
+[INFO ] 2024-08-12 16:33:33.867 [main] DemoStoreTestng - https://parabank.parasoft.com/parabank/login.htm;jsessionid=89D55A2EF95B359C76997505AD1FB98A
+[INFO ] 2024-08-12 16:34:29.669 [main] DemoStoreTestng - Scenario execution started
+[INFO ] 2024-08-12 16:34:42.480 [main] DemoStoreTestng - application opened
+[INFO ] 2024-08-12 16:34:42.703 [main] DemoStoreTestng - Entered username: john_andrew
+[INFO ] 2024-08-12 16:34:42.887 [main] DemoStoreTestng - Entered password: John@1245
+[INFO ] 2024-08-12 16:34:43.956 [main] DemoStoreTestng - Clicked login button
+[INFO ] 2024-08-12 16:34:44.034 [main] DemoStoreTestng - https://parabank.parasoft.com/parabank/login.htm;jsessionid=C1F424AB5895AC02A8A50B6B282F6DEA
+[INFO ] 2024-08-12 16:35:05.195 [main] DemoStoreTestng - screenshot captured
+[DEBUG] 2024-08-12 16:35:05.195 [main] DemoStoreTestng - Captured screenshot for failed scenario: user opens new account
+[INFO ] 2024-08-12 16:35:05.195 [main] DemoStoreTestng - Scenario execution over
+[INFO ] 2024-08-12 16:36:04.577 [main] DemoStoreTestng - Scenario execution started
+[INFO ] 2024-08-12 16:36:05.652 [main] DemoStoreTestng - Scenario execution started
+[INFO ] 2024-08-12 16:36:17.290 [main] DemoStoreTestng - Scenario execution over
+[INFO ] 2024-08-12 16:36:21.560 [main] DemoStoreTestng - application opened
+[INFO ] 2024-08-12 16:36:21.754 [main] DemoStoreTestng - Entered username: john_andrew
+[INFO ] 2024-08-12 16:36:21.853 [main] DemoStoreTestng - Entered password: John@1245
+[INFO ] 2024-08-12 16:36:24.048 [main] DemoStoreTestng - Clicked login button
+[INFO ] 2024-08-12 16:36:24.088 [main] DemoStoreTestng - https://parabank.parasoft.com/parabank/overview.htm
+[INFO ] 2024-08-12 16:36:24.303 [main] DemoStoreTestng - Accounts overview page opened
+[INFO ] 2024-08-12 16:36:24.840 [main] DemoStoreTestng - Clicked open new account
+[INFO ] 2024-08-12 16:36:24.852 [main] DemoStoreTestng - https://parabank.parasoft.com/parabank/openaccount.htm
+[INFO ] 2024-08-12 16:36:24.864 [main] DemoStoreTestng - Open Account page opened
+[INFO ] 2024-08-12 16:36:25.047 [main] DemoStoreTestng - Selected account type: CHECKING
+[INFO ] 2024-08-12 16:36:26.061 [main] DemoStoreTestng - Given account id: 13566
+[INFO ] 2024-08-12 16:36:26.164 [main] DemoStoreTestng - Clicked open new account button
+[INFO ] 2024-08-12 16:36:26.197 [main] DemoStoreTestng - Account success message: 
+[FATAL] 2024-08-12 16:36:26.238 [main] DemoStoreTestng - Account not opened
+[INFO ] 2024-08-12 16:36:28.455 [main] DemoStoreTestng - Clicked account number link
+[ERROR] 2024-08-12 16:36:28.483 [main] DemoStoreTestng - Account page not found
+[INFO ] 2024-08-12 16:36:30.121 [main] DemoStoreTestng - Clicked fund transfer received link
+[INFO ] 2024-08-12 16:36:54.602 [main] DemoStoreTestng - screenshot captured
+[DEBUG] 2024-08-12 16:36:54.602 [main] DemoStoreTestng - Captured screenshot for failed scenario: user opens new account
+[INFO ] 2024-08-12 16:36:54.602 [main] DemoStoreTestng - Scenario execution over
+[INFO ] 2024-08-12 16:37:47.105 [main] DemoStoreTestng - Scenario execution started
+[INFO ] 2024-08-12 16:38:01.362 [main] DemoStoreTestng - application opened
+[INFO ] 2024-08-12 16:38:01.572 [main] DemoStoreTestng - Entered username: john_andrew
+[INFO ] 2024-08-12 16:38:01.677 [main] DemoStoreTestng - Entered password: John@1245
+[INFO ] 2024-08-12 16:38:03.506 [main] DemoStoreTestng - Clicked login button
+[INFO ] 2024-08-12 16:38:03.524 [main] DemoStoreTestng - https://parabank.parasoft.com/parabank/overview.htm
+[INFO ] 2024-08-12 16:38:03.585 [main] DemoStoreTestng - Accounts overview page opened
+[INFO ] 2024-08-12 16:38:04.116 [main] DemoStoreTestng - Clicked open new account
+[INFO ] 2024-08-12 16:38:04.134 [main] DemoStoreTestng - https://parabank.parasoft.com/parabank/openaccount.htm
+[INFO ] 2024-08-12 16:38:04.143 [main] DemoStoreTestng - Open Account page opened
+[INFO ] 2024-08-12 16:38:04.294 [main] DemoStoreTestng - Selected account type: CHECKING
+[INFO ] 2024-08-12 16:38:04.532 [main] DemoStoreTestng - Given account id: 13566
+[INFO ] 2024-08-12 16:38:04.625 [main] DemoStoreTestng - Clicked open new account button
+[INFO ] 2024-08-12 16:38:04.659 [main] DemoStoreTestng - Account success message: 
+[FATAL] 2024-08-12 16:38:04.688 [main] DemoStoreTestng - Account not opened
+[INFO ] 2024-08-12 16:38:05.480 [main] DemoStoreTestng - Clicked account number link
+[ERROR] 2024-08-12 16:38:05.507 [main] DemoStoreTestng - Account page not found
+[INFO ] 2024-08-12 16:38:06.432 [main] DemoStoreTestng - Clicked fund transfer received link
+[INFO ] 2024-08-12 16:38:06.543 [main] DemoStoreTestng - Transaction date: 14809
+[INFO ] 2024-08-12 16:38:06.578 [main] DemoStoreTestng - Transaction type: 14809
+[INFO ] 2024-08-12 16:38:06.602 [main] DemoStoreTestng - Transaction Amount: 14809
+[INFO ] 2024-08-12 16:38:06.602 [main] DemoStoreTestng - Checked account transaction details
+[INFO ] 2024-08-12 16:38:07.474 [main] DemoStoreTestng - Logs out of the application
+[INFO ] 2024-08-12 16:38:07.480 [main] DemoStoreTestng - Scenario execution over
+[INFO ] 2024-08-12 16:42:20.375 [main] DemoStoreTestng - Scenario execution started
+[INFO ] 2024-08-12 16:42:34.541 [main] DemoStoreTestng - application opened
+[INFO ] 2024-08-12 16:42:34.637 [main] DemoStoreTestng - Entered username: john_andrew
+[INFO ] 2024-08-12 16:42:34.715 [main] DemoStoreTestng - Entered password: John@1245
+[INFO ] 2024-08-12 16:42:35.606 [main] DemoStoreTestng - Clicked login button
+[INFO ] 2024-08-12 16:42:35.621 [main] DemoStoreTestng - https://parabank.parasoft.com/parabank/login.htm;jsessionid=B4C67B92D4B49C64AB5462B6A8ED224F
+[INFO ] 2024-08-12 16:42:55.985 [main] DemoStoreTestng - screenshot captured
+[DEBUG] 2024-08-12 16:42:55.985 [main] DemoStoreTestng - Captured screenshot for failed scenario: user opens new account
+[INFO ] 2024-08-12 16:42:55.985 [main] DemoStoreTestng - Scenario execution over
+[INFO ] 2024-08-12 16:42:59.420 [main] DemoStoreTestng - Scenario execution started
+[INFO ] 2024-08-12 16:43:12.979 [main] DemoStoreTestng - application opened
+[INFO ] 2024-08-12 16:43:13.057 [main] DemoStoreTestng - Entered username: john_andrew
+[INFO ] 2024-08-12 16:43:13.120 [main] DemoStoreTestng - Entered password: John@1245
+[INFO ] 2024-08-12 16:43:15.462 [main] DemoStoreTestng - Clicked login button
+[INFO ] 2024-08-12 16:43:15.534 [main] DemoStoreTestng - https://parabank.parasoft.com/parabank/login.htm;jsessionid=A059966B02AE21D942AAB1D60C4E4F55
+[INFO ] 2024-08-12 16:43:39.876 [main] DemoStoreTestng - Scenario execution over
+[INFO ] 2024-08-12 16:44:23.422 [main] DemoStoreTestng - Scenario execution started
+[INFO ] 2024-08-12 16:44:33.217 [main] DemoStoreTestng - application opened
+[INFO ] 2024-08-12 16:44:33.342 [main] DemoStoreTestng - Entered username: john_andrew
+[INFO ] 2024-08-12 16:44:33.405 [main] DemoStoreTestng - Entered password: John@1245
+[INFO ] 2024-08-12 16:44:35.396 [main] DemoStoreTestng - Clicked login button
+[INFO ] 2024-08-12 16:44:35.412 [main] DemoStoreTestng - https://parabank.parasoft.com/parabank/overview.htm
+[INFO ] 2024-08-12 16:44:35.443 [main] DemoStoreTestng - Accounts overview page opened
+[INFO ] 2024-08-12 16:44:35.925 [main] DemoStoreTestng - Clicked open new account
+[INFO ] 2024-08-12 16:44:35.946 [main] DemoStoreTestng - https://parabank.parasoft.com/parabank/openaccount.htm
+[INFO ] 2024-08-12 16:44:35.963 [main] DemoStoreTestng - Open Account page opened
+[INFO ] 2024-08-12 16:44:36.084 [main] DemoStoreTestng - Selected account type: CHECKING
+[INFO ] 2024-08-12 16:44:36.955 [main] DemoStoreTestng - Given account id: 13566
+[INFO ] 2024-08-12 16:44:37.021 [main] DemoStoreTestng - Clicked open new account button
+[INFO ] 2024-08-12 16:44:37.051 [main] DemoStoreTestng - Account success message: 
+[FATAL] 2024-08-12 16:44:37.062 [main] DemoStoreTestng - Account not opened
+[INFO ] 2024-08-12 16:44:37.792 [main] DemoStoreTestng - Clicked account number link
+[ERROR] 2024-08-12 16:44:37.817 [main] DemoStoreTestng - Account page not found
+[INFO ] 2024-08-12 16:44:39.507 [main] DemoStoreTestng - Clicked fund transfer received link
+[INFO ] 2024-08-12 16:44:39.573 [main] DemoStoreTestng - Transaction date: 14587
+[INFO ] 2024-08-12 16:44:39.589 [main] DemoStoreTestng - Transaction type: 14587
+[INFO ] 2024-08-12 16:44:39.604 [main] DemoStoreTestng - Transaction Amount: 14587
+[INFO ] 2024-08-12 16:44:39.620 [main] DemoStoreTestng - Checked account transaction details
+[INFO ] 2024-08-12 16:44:40.459 [main] DemoStoreTestng - Logs out of the application
+[INFO ] 2024-08-12 16:44:40.462 [main] DemoStoreTestng - Scenario execution over
+[INFO ] 2024-08-12 16:44:44.049 [main] DemoStoreTestng - Scenario execution started
+[INFO ] 2024-08-12 16:44:57.138 [main] DemoStoreTestng - application opened
+[INFO ] 2024-08-12 16:44:57.247 [main] DemoStoreTestng - Entered username: john_andrew
+[INFO ] 2024-08-12 16:44:57.325 [main] DemoStoreTestng - Entered password: John@1245
+[INFO ] 2024-08-12 16:44:59.911 [main] DemoStoreTestng - Clicked login button
+[INFO ] 2024-08-12 16:44:59.927 [main] DemoStoreTestng - https://parabank.parasoft.com/parabank/overview.htm
+[INFO ] 2024-08-12 16:44:59.958 [main] DemoStoreTestng - Accounts overview page opened
+[INFO ] 2024-08-12 16:45:01.664 [main] DemoStoreTestng - Clicked open new account
+[INFO ] 2024-08-12 16:45:01.664 [main] DemoStoreTestng - https://parabank.parasoft.com/parabank/openaccount.htm
+[INFO ] 2024-08-12 16:45:01.680 [main] DemoStoreTestng - Open Account page opened
+[INFO ] 2024-08-12 16:45:01.805 [main] DemoStoreTestng - Selected account type: SAVINGS
+[INFO ] 2024-08-12 16:45:02.070 [main] DemoStoreTestng - Given account id: 13566
+[INFO ] 2024-08-12 16:45:02.310 [main] DemoStoreTestng - Clicked open new account button
+[INFO ] 2024-08-12 16:45:02.349 [main] DemoStoreTestng - Account success message: 
+[FATAL] 2024-08-12 16:45:02.369 [main] DemoStoreTestng - Account not opened
+[INFO ] 2024-08-12 16:45:03.076 [main] DemoStoreTestng - Clicked account number link
+[ERROR] 2024-08-12 16:45:03.097 [main] DemoStoreTestng - Account page not found
+[INFO ] 2024-08-12 16:45:04.573 [main] DemoStoreTestng - Clicked fund transfer received link
+[INFO ] 2024-08-12 16:45:04.649 [main] DemoStoreTestng - Transaction date: 14809
+[INFO ] 2024-08-12 16:45:04.665 [main] DemoStoreTestng - Transaction type: 14809
+[INFO ] 2024-08-12 16:45:04.680 [main] DemoStoreTestng - Transaction Amount: 14809
+[INFO ] 2024-08-12 16:45:04.680 [main] DemoStoreTestng - Checked account transaction details
+[INFO ] 2024-08-12 16:45:05.649 [main] DemoStoreTestng - Logs out of the application
+[INFO ] 2024-08-12 16:45:05.649 [main] DemoStoreTestng - Scenario execution over
+[INFO ] 2024-08-12 17:22:24.488 [main] DemoStoreTestng - Scenario execution started
+[INFO ] 2024-08-12 17:22:36.232 [main] DemoStoreTestng - application opened
+[INFO ] 2024-08-12 17:22:36.342 [main] DemoStoreTestng - Entered username: <username>
+[INFO ] 2024-08-12 17:22:36.420 [main] DemoStoreTestng - Entered password: <password>
+[INFO ] 2024-08-12 17:22:39.045 [main] DemoStoreTestng - Clicked login button
+[INFO ] 2024-08-12 17:22:39.066 [main] DemoStoreTestng - https://parabank.parasoft.com/parabank/login.htm;jsessionid=8C5C266541FC56738CC0FC87AA40C60A
+[INFO ] 2024-08-12 17:22:59.394 [main] DemoStoreTestng - screenshot captured
+[DEBUG] 2024-08-12 17:22:59.395 [main] DemoStoreTestng - Captured screenshot for failed scenario: user checks balance in all accounts
+[INFO ] 2024-08-12 17:22:59.396 [main] DemoStoreTestng - Scenario execution over
+[INFO ] 2024-08-12 17:23:35.258 [main] DemoStoreTestng - Scenario execution started
+[INFO ] 2024-08-12 17:23:47.100 [main] DemoStoreTestng - application opened
+[INFO ] 2024-08-12 17:23:47.225 [main] DemoStoreTestng - Entered username: john_andrew
+[INFO ] 2024-08-12 17:23:47.303 [main] DemoStoreTestng - Entered password: John@1245
+[INFO ] 2024-08-12 17:23:48.161 [main] DemoStoreTestng - Clicked login button
+[INFO ] 2024-08-12 17:23:48.263 [main] DemoStoreTestng - https://parabank.parasoft.com/parabank/login.htm;jsessionid=B9116ADF38F899F3B7F5ACA0D14C291C
+[INFO ] 2024-08-12 17:24:08.525 [main] DemoStoreTestng - screenshot captured
+[DEBUG] 2024-08-12 17:24:08.525 [main] DemoStoreTestng - Captured screenshot for failed scenario: user checks balance in all accounts
+[INFO ] 2024-08-12 17:24:08.525 [main] DemoStoreTestng - Scenario execution over
+[INFO ] 2024-08-12 17:32:20.681 [main] DemoStoreTestng - Scenario execution started
+[INFO ] 2024-08-12 17:32:32.473 [main] DemoStoreTestng - application opened
+[INFO ] 2024-08-12 17:32:32.582 [main] DemoStoreTestng - Entered username: john_andrew
+[INFO ] 2024-08-12 17:32:32.645 [main] DemoStoreTestng - Entered password: John@1245
+[INFO ] 2024-08-12 17:32:35.305 [main] DemoStoreTestng - Clicked login button
+[INFO ] 2024-08-12 17:32:35.328 [main] DemoStoreTestng - https://parabank.parasoft.com/parabank/overview.htm
+[INFO ] 2024-08-12 17:32:35.369 [main] DemoStoreTestng - Accounts overview page opened
+[INFO ] 2024-08-12 17:32:56.738 [main] DemoStoreTestng - screenshot captured
+[DEBUG] 2024-08-12 17:32:56.738 [main] DemoStoreTestng - Captured screenshot for failed scenario: user checks balance in all accounts
+[INFO ] 2024-08-12 17:32:56.738 [main] DemoStoreTestng - Scenario execution over
+[INFO ] 2024-08-12 17:34:57.040 [main] DemoStoreTestng - Scenario execution started
+[INFO ] 2024-08-12 17:35:11.270 [main] DemoStoreTestng - application opened
+[INFO ] 2024-08-12 17:35:11.370 [main] DemoStoreTestng - Entered username: john_andrew
+[INFO ] 2024-08-12 17:35:11.448 [main] DemoStoreTestng - Entered password: John@1245
+[INFO ] 2024-08-12 17:35:12.772 [main] DemoStoreTestng - Clicked login button
+[INFO ] 2024-08-12 17:35:12.804 [main] DemoStoreTestng - https://parabank.parasoft.com/parabank/overview.htm
+[INFO ] 2024-08-12 17:35:12.850 [main] DemoStoreTestng - Accounts overview page opened
+[INFO ] 2024-08-12 17:35:34.348 [main] DemoStoreTestng - screenshot captured
+[DEBUG] 2024-08-12 17:35:34.349 [main] DemoStoreTestng - Captured screenshot for failed scenario: user checks balance in all accounts
+[INFO ] 2024-08-12 17:35:34.349 [main] DemoStoreTestng - Scenario execution over
+[INFO ] 2024-08-12 17:37:56.812 [main] DemoStoreTestng - Scenario execution started
+[INFO ] 2024-08-12 17:38:07.024 [main] DemoStoreTestng - application opened
+[INFO ] 2024-08-12 17:38:07.134 [main] DemoStoreTestng - Entered username: john_andrew
+[INFO ] 2024-08-12 17:38:07.196 [main] DemoStoreTestng - Entered password: John@1245
+[INFO ] 2024-08-12 17:38:10.012 [main] DemoStoreTestng - Clicked login button
+[INFO ] 2024-08-12 17:38:10.036 [main] DemoStoreTestng - https://parabank.parasoft.com/parabank/login.htm;jsessionid=B1381953431579CF0AA5C2398DD11BCB
+[INFO ] 2024-08-12 17:38:20.360 [main] DemoStoreTestng - Scenario execution over
+[INFO ] 2024-08-12 17:38:58.510 [main] DemoStoreTestng - Scenario execution started
+[INFO ] 2024-08-12 17:39:12.070 [main] DemoStoreTestng - application opened
+[INFO ] 2024-08-12 17:39:12.179 [main] DemoStoreTestng - Entered username: john_andrew
+[INFO ] 2024-08-12 17:39:12.257 [main] DemoStoreTestng - Entered password: John@1245
+[INFO ] 2024-08-12 17:39:13.362 [main] DemoStoreTestng - Clicked login button
+[INFO ] 2024-08-12 17:39:13.377 [main] DemoStoreTestng - https://parabank.parasoft.com/parabank/overview.htm
+[INFO ] 2024-08-12 17:39:13.471 [main] DemoStoreTestng - Accounts overview page opened
+[INFO ] 2024-08-12 17:39:34.200 [main] DemoStoreTestng - screenshot captured
+[DEBUG] 2024-08-12 17:39:34.201 [main] DemoStoreTestng - Captured screenshot for failed scenario: user checks balance in all accounts
+[INFO ] 2024-08-12 17:39:34.201 [main] DemoStoreTestng - Scenario execution over
+[INFO ] 2024-08-12 17:41:19.205 [main] DemoStoreTestng - Scenario execution started
+[INFO ] 2024-08-12 17:41:30.869 [main] DemoStoreTestng - application opened
+[INFO ] 2024-08-12 17:41:30.994 [main] DemoStoreTestng - Entered username: john_andrew
+[INFO ] 2024-08-12 17:41:31.079 [main] DemoStoreTestng - Entered password: John@1245
+[INFO ] 2024-08-12 17:41:32.478 [main] DemoStoreTestng - Clicked login button
+[INFO ] 2024-08-12 17:41:32.509 [main] DemoStoreTestng - https://parabank.parasoft.com/parabank/overview.htm
+[INFO ] 2024-08-12 17:41:32.556 [main] DemoStoreTestng - Accounts overview page opened
+[INFO ] 2024-08-12 17:41:53.286 [main] DemoStoreTestng - screenshot captured
+[DEBUG] 2024-08-12 17:41:53.286 [main] DemoStoreTestng - Captured screenshot for failed scenario: user checks balance in all accounts
+[INFO ] 2024-08-12 17:41:53.287 [main] DemoStoreTestng - Scenario execution over
+[INFO ] 2024-08-12 17:42:28.989 [main] DemoStoreTestng - Scenario execution started
+[INFO ] 2024-08-12 17:42:39.319 [main] DemoStoreTestng - application opened
+[INFO ] 2024-08-12 17:42:39.459 [main] DemoStoreTestng - Entered username: john_andrew
+[INFO ] 2024-08-12 17:42:39.537 [main] DemoStoreTestng - Entered password: John@1245
+[INFO ] 2024-08-12 17:42:41.853 [main] DemoStoreTestng - Clicked login button
+[INFO ] 2024-08-12 17:42:41.868 [main] DemoStoreTestng - https://parabank.parasoft.com/parabank/overview.htm
+[INFO ] 2024-08-12 17:42:41.915 [main] DemoStoreTestng - Accounts overview page opened
+[INFO ] 2024-08-12 17:42:42.576 [main] DemoStoreTestng - screenshot captured
+[DEBUG] 2024-08-12 17:42:42.576 [main] DemoStoreTestng - Captured screenshot for failed scenario: user checks balance in all accounts
+[INFO ] 2024-08-12 17:42:42.576 [main] DemoStoreTestng - Scenario execution over
+[INFO ] 2024-08-12 17:44:05.885 [main] DemoStoreTestng - Scenario execution started
+[INFO ] 2024-08-12 17:44:18.759 [main] DemoStoreTestng - application opened
+[INFO ] 2024-08-12 17:44:18.884 [main] DemoStoreTestng - Entered username: john_andrew
+[INFO ] 2024-08-12 17:44:18.946 [main] DemoStoreTestng - Entered password: John@1245
+[INFO ] 2024-08-12 17:44:20.916 [main] DemoStoreTestng - Clicked login button
+[INFO ] 2024-08-12 17:44:20.939 [main] DemoStoreTestng - https://parabank.parasoft.com/parabank/overview.htm
+[INFO ] 2024-08-12 17:44:20.975 [main] DemoStoreTestng - Accounts overview page opened
+[INFO ] 2024-08-12 17:44:22.484 [main] DemoStoreTestng - screenshot captured
+[DEBUG] 2024-08-12 17:44:22.484 [main] DemoStoreTestng - Captured screenshot for failed scenario: user checks balance in all accounts
+[INFO ] 2024-08-12 17:44:22.499 [main] DemoStoreTestng - Scenario execution over
+[INFO ] 2024-08-12 17:45:30.361 [main] DemoStoreTestng - Scenario execution started
+[INFO ] 2024-08-12 17:45:42.494 [main] DemoStoreTestng - application opened
+[INFO ] 2024-08-12 17:45:42.619 [main] DemoStoreTestng - Entered username: john_andrew
+[INFO ] 2024-08-12 17:45:42.681 [main] DemoStoreTestng - Entered password: John@1245
+[INFO ] 2024-08-12 17:45:44.215 [main] DemoStoreTestng - Clicked login button
+[INFO ] 2024-08-12 17:45:44.246 [main] DemoStoreTestng - https://parabank.parasoft.com/parabank/overview.htm
+[INFO ] 2024-08-12 17:45:44.293 [main] DemoStoreTestng - Accounts overview page opened
+[INFO ] 2024-08-12 17:45:45.311 [main] DemoStoreTestng - screenshot captured
+[DEBUG] 2024-08-12 17:45:45.311 [main] DemoStoreTestng - Captured screenshot for failed scenario: user checks balance in all accounts
+[INFO ] 2024-08-12 17:45:45.311 [main] DemoStoreTestng - Scenario execution over
+[INFO ] 2024-08-12 17:47:30.781 [main] DemoStoreTestng - Scenario execution started
+[INFO ] 2024-08-12 17:47:42.002 [main] DemoStoreTestng - application opened
+[INFO ] 2024-08-12 17:47:42.111 [main] DemoStoreTestng - Entered username: john_andrew
+[INFO ] 2024-08-12 17:47:42.189 [main] DemoStoreTestng - Entered password: John@1245
+[INFO ] 2024-08-12 17:47:43.242 [main] DemoStoreTestng - Clicked login button
+[INFO ] 2024-08-12 17:47:43.273 [main] DemoStoreTestng - https://parabank.parasoft.com/parabank/login.htm;jsessionid=DE1F9AE9873AEBA8DA8C7D9D23C185D6
+[INFO ] 2024-08-12 17:47:53.481 [main] DemoStoreTestng - Scenario execution over
+[INFO ] 2024-08-12 17:48:21.545 [main] DemoStoreTestng - Scenario execution started
+[INFO ] 2024-08-12 17:48:34.906 [main] DemoStoreTestng - application opened
+[INFO ] 2024-08-12 17:48:35.062 [main] DemoStoreTestng - Entered username: john_andrew
+[INFO ] 2024-08-12 17:48:35.125 [main] DemoStoreTestng - Entered password: John@1245
+[INFO ] 2024-08-12 17:48:37.169 [main] DemoStoreTestng - Clicked login button
+[INFO ] 2024-08-12 17:48:37.216 [main] DemoStoreTestng - https://parabank.parasoft.com/parabank/overview.htm
+[INFO ] 2024-08-12 17:48:37.263 [main] DemoStoreTestng - Accounts overview page opened
+[INFO ] 2024-08-12 17:48:39.016 [main] DemoStoreTestng - screenshot captured
+[DEBUG] 2024-08-12 17:48:39.016 [main] DemoStoreTestng - Captured screenshot for failed scenario: user checks balance in all accounts
+[INFO ] 2024-08-12 17:48:39.016 [main] DemoStoreTestng - Scenario execution over
+[INFO ] 2024-08-12 18:07:06.491 [main] DemoStoreTestng - Scenario execution started
+[INFO ] 2024-08-12 18:07:19.784 [main] DemoStoreTestng - application opened
+[INFO ] 2024-08-12 18:07:19.971 [main] DemoStoreTestng - Entered username: john_andrew
+[INFO ] 2024-08-12 18:07:20.096 [main] DemoStoreTestng - Entered password: John@1245
+[INFO ] 2024-08-12 18:07:22.327 [main] DemoStoreTestng - Clicked login button
+[INFO ] 2024-08-12 18:07:22.343 [main] DemoStoreTestng - https://parabank.parasoft.com/parabank/login.htm;jsessionid=63BC12A0CC28CB83BE99BEC5F31AD93B
+[INFO ] 2024-08-12 18:07:37.150 [main] DemoStoreTestng - Scenario execution over
+[INFO ] 2024-08-12 18:08:06.614 [main] DemoStoreTestng - Scenario execution started
+[INFO ] 2024-08-12 18:08:20.001 [main] DemoStoreTestng - application opened
+[INFO ] 2024-08-12 18:08:20.272 [main] DemoStoreTestng - Entered username: john_andrew
+[INFO ] 2024-08-12 18:08:20.407 [main] DemoStoreTestng - Entered password: John@1245
+[INFO ] 2024-08-12 18:08:22.828 [main] DemoStoreTestng - Clicked login button
+[INFO ] 2024-08-12 18:08:22.868 [main] DemoStoreTestng - https://parabank.parasoft.com/parabank/overview.htm
+[INFO ] 2024-08-12 18:08:22.951 [main] DemoStoreTestng - Accounts overview page opened
+[INFO ] 2024-08-12 18:08:23.779 [main] DemoStoreTestng - screenshot captured
+[DEBUG] 2024-08-12 18:08:23.780 [main] DemoStoreTestng - Captured screenshot for failed scenario: user checks balance in all accounts
+[INFO ] 2024-08-12 18:08:23.782 [main] DemoStoreTestng - Scenario execution over
+[INFO ] 2024-08-12 18:16:53.910 [main] DemoStoreTestng - Scenario execution started
+[INFO ] 2024-08-12 18:17:06.374 [main] DemoStoreTestng - application opened
+[INFO ] 2024-08-12 18:17:06.707 [main] DemoStoreTestng - Entered username: john_andrew
+[INFO ] 2024-08-12 18:17:06.790 [main] DemoStoreTestng - Entered password: John@1245
+[INFO ] 2024-08-12 18:17:09.531 [main] DemoStoreTestng - Clicked login button
+[INFO ] 2024-08-12 18:17:09.564 [main] DemoStoreTestng - https://parabank.parasoft.com/parabank/overview.htm
+[INFO ] 2024-08-12 18:17:09.617 [main] DemoStoreTestng - Accounts overview page opened
+[INFO ] 2024-08-12 18:17:31.561 [main] DemoStoreTestng - screenshot captured
+[DEBUG] 2024-08-12 18:17:31.561 [main] DemoStoreTestng - Captured screenshot for failed scenario: user checks balance in all accounts
+[INFO ] 2024-08-12 18:17:31.562 [main] DemoStoreTestng - Scenario execution over
+[INFO ] 2024-08-12 18:21:55.611 [main] DemoStoreTestng - Scenario execution started
+[INFO ] 2024-08-12 18:22:08.672 [main] DemoStoreTestng - application opened
+[INFO ] 2024-08-12 18:22:09.020 [main] DemoStoreTestng - Entered username: john_andrew
+[INFO ] 2024-08-12 18:22:09.135 [main] DemoStoreTestng - Entered password: John@1245
+[INFO ] 2024-08-12 18:22:11.312 [main] DemoStoreTestng - Clicked login button
+[INFO ] 2024-08-12 18:22:11.342 [main] DemoStoreTestng - https://parabank.parasoft.com/parabank/overview.htm
+[INFO ] 2024-08-12 18:22:11.415 [main] DemoStoreTestng - Accounts overview page opened
+[INFO ] 2024-08-12 18:22:14.237 [main] DemoStoreTestng - Logs out of the application
+[INFO ] 2024-08-12 18:22:14.255 [main] DemoStoreTestng - Scenario execution over
+[INFO ] 2024-08-12 18:22:45.442 [main] DemoStoreTestng - Scenario execution started
+[INFO ] 2024-08-12 18:23:00.420 [main] DemoStoreTestng - application opened
+[INFO ] 2024-08-12 18:23:00.661 [main] DemoStoreTestng - Entered username: john_andrew
+[INFO ] 2024-08-12 18:23:00.789 [main] DemoStoreTestng - Entered password: John@1245
+[INFO ] 2024-08-12 18:23:03.066 [main] DemoStoreTestng - Clicked login button
+[INFO ] 2024-08-12 18:23:03.117 [main] DemoStoreTestng - https://parabank.parasoft.com/parabank/overview.htm
+[INFO ] 2024-08-12 18:23:03.192 [main] DemoStoreTestng - Accounts overview page opened
+[INFO ] 2024-08-12 18:23:04.890 [main] DemoStoreTestng - Logs out of the application
+[INFO ] 2024-08-12 18:23:04.892 [main] DemoStoreTestng - Scenario execution over
+[INFO ] 2024-08-12 18:23:10.221 [main] DemoStoreTestng - Scenario execution started
+[INFO ] 2024-08-12 18:23:21.754 [main] DemoStoreTestng - application opened
+[INFO ] 2024-08-12 18:23:21.872 [main] DemoStoreTestng - Entered username: john_andrew
+[INFO ] 2024-08-12 18:23:21.953 [main] DemoStoreTestng - Entered password: John@1245
+[INFO ] 2024-08-12 18:23:23.202 [main] DemoStoreTestng - Clicked login button
+[INFO ] 2024-08-12 18:23:23.243 [main] DemoStoreTestng - https://parabank.parasoft.com/parabank/overview.htm
+[INFO ] 2024-08-12 18:23:23.285 [main] DemoStoreTestng - Accounts overview page opened
+[INFO ] 2024-08-12 18:23:24.620 [main] DemoStoreTestng - Clicked open new account
+[INFO ] 2024-08-12 18:23:24.651 [main] DemoStoreTestng - https://parabank.parasoft.com/parabank/openaccount.htm
+[INFO ] 2024-08-12 18:23:24.663 [main] DemoStoreTestng - Open Account page opened
+[INFO ] 2024-08-12 18:23:24.767 [main] DemoStoreTestng - Selected account type: CHECKING
+[INFO ] 2024-08-12 18:23:25.255 [main] DemoStoreTestng - Given account id: 13566
+[INFO ] 2024-08-12 18:23:25.334 [main] DemoStoreTestng - Clicked open new account button
+[INFO ] 2024-08-12 18:23:25.362 [main] DemoStoreTestng - Account success message: 
+[FATAL] 2024-08-12 18:23:25.398 [main] DemoStoreTestng - Account not opened
+[INFO ] 2024-08-12 18:23:26.204 [main] DemoStoreTestng - Clicked account number link
+[ERROR] 2024-08-12 18:23:26.228 [main] DemoStoreTestng - Account page not found
+[INFO ] 2024-08-12 18:23:27.207 [main] DemoStoreTestng - Clicked fund transfer received link
+[INFO ] 2024-08-12 18:23:27.302 [main] DemoStoreTestng - Transaction date: 15253
+[INFO ] 2024-08-12 18:23:27.326 [main] DemoStoreTestng - Transaction type: 15253
+[INFO ] 2024-08-12 18:23:27.354 [main] DemoStoreTestng - Transaction Amount: 15253
+[INFO ] 2024-08-12 18:23:27.354 [main] DemoStoreTestng - Checked account transaction details
+[INFO ] 2024-08-12 18:23:28.240 [main] DemoStoreTestng - Logs out of the application
+[INFO ] 2024-08-12 18:23:28.242 [main] DemoStoreTestng - Scenario execution over
+[INFO ] 2024-08-12 18:23:34.891 [main] DemoStoreTestng - Scenario execution started
+[INFO ] 2024-08-12 18:23:47.641 [main] DemoStoreTestng - application opened
+[INFO ] 2024-08-12 18:23:47.886 [main] DemoStoreTestng - Entered username: john_andrew
+[INFO ] 2024-08-12 18:23:47.971 [main] DemoStoreTestng - Entered password: John@1245
+[INFO ] 2024-08-12 18:23:50.038 [main] DemoStoreTestng - Clicked login button
+[INFO ] 2024-08-12 18:23:50.099 [main] DemoStoreTestng - https://parabank.parasoft.com/parabank/overview.htm
+[INFO ] 2024-08-12 18:23:50.153 [main] DemoStoreTestng - Accounts overview page opened
+[INFO ] 2024-08-12 18:23:51.504 [main] DemoStoreTestng - Clicked open new account
+[INFO ] 2024-08-12 18:23:51.523 [main] DemoStoreTestng - https://parabank.parasoft.com/parabank/openaccount.htm
+[INFO ] 2024-08-12 18:23:51.533 [main] DemoStoreTestng - Open Account page opened
+[INFO ] 2024-08-12 18:23:51.694 [main] DemoStoreTestng - Selected account type: SAVINGS
+[INFO ] 2024-08-12 18:23:51.905 [main] DemoStoreTestng - Given account id: 13566
+[INFO ] 2024-08-12 18:23:52.001 [main] DemoStoreTestng - Clicked open new account button
+[INFO ] 2024-08-12 18:23:52.053 [main] DemoStoreTestng - Account success message: 
+[FATAL] 2024-08-12 18:23:52.118 [main] DemoStoreTestng - Account not opened
+[INFO ] 2024-08-12 18:23:52.879 [main] DemoStoreTestng - Clicked account number link
+[ERROR] 2024-08-12 18:23:52.897 [main] DemoStoreTestng - Account page not found
+[INFO ] 2024-08-12 18:23:53.767 [main] DemoStoreTestng - Clicked fund transfer received link
+[INFO ] 2024-08-12 18:23:53.878 [main] DemoStoreTestng - Transaction date: 15475
+[INFO ] 2024-08-12 18:23:53.899 [main] DemoStoreTestng - Transaction type: 15475
+[INFO ] 2024-08-12 18:23:53.937 [main] DemoStoreTestng - Transaction Amount: 15475
+[INFO ] 2024-08-12 18:23:53.937 [main] DemoStoreTestng - Checked account transaction details
+[INFO ] 2024-08-12 18:23:54.796 [main] DemoStoreTestng - Logs out of the application
+[INFO ] 2024-08-12 18:23:54.800 [main] DemoStoreTestng - Scenario execution over
+[INFO ] 2024-08-13 09:42:18.585 [main] DemoStoreTestng - Scenario execution started
+[INFO ] 2024-08-13 09:42:30.251 [main] DemoStoreTestng - screenshot captured
+[DEBUG] 2024-08-13 09:42:30.251 [main] DemoStoreTestng - Captured screenshot for failed scenario: register to check bank account details
+[INFO ] 2024-08-13 09:42:30.251 [main] DemoStoreTestng - Scenario execution over
+[INFO ] 2024-08-13 09:42:34.689 [main] DemoStoreTestng - Scenario execution started
+[INFO ] 2024-08-13 09:42:44.286 [main] DemoStoreTestng - screenshot captured
+[DEBUG] 2024-08-13 09:42:44.286 [main] DemoStoreTestng - Captured screenshot for failed scenario: register to check bank account details
+[INFO ] 2024-08-13 09:42:44.286 [main] DemoStoreTestng - Scenario execution over

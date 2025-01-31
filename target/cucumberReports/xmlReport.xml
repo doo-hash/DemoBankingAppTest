@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="236.385" tests="10" skipped="0" failures="0" errors="0">
+<testcase classname="register an account" name="set database options" time="25.807">
+<system-out><![CDATA[
+Given user opens the application............................................passed
+And user sets database options..............................................passed
+]]></system-out>
+</testcase>
+<testcase classname="register an account" name="register to check bank account details - #1.1" time="24.367">
+<system-out><![CDATA[
+Given user opens the application............................................passed
+And user clicks register link...............................................passed
+Then user was redirected to register page...................................passed
+And user enters details "john_andrew" and "John@1245".......................passed
+Then user gets confirmation message.........................................passed
+And user signsout of the app................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="register an account" name="register to check bank account details - #1.2" time="21.386">
+<system-out><![CDATA[
+Given user opens the application............................................passed
+And user clicks register link...............................................passed
+Then user was redirected to register page...................................passed
+And user enters details "Luce_Walker" and "Luce@1234".......................passed
+Then user gets confirmation message.........................................passed
+And user signsout of the app................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="register an account" name="register to check bank account details - #1.3" time="21.094">
+<system-out><![CDATA[
+Given user opens the application............................................passed
+And user clicks register link...............................................passed
+Then user was redirected to register page...................................passed
+And user enters details "Sunflower" and "flower"............................passed
+Then user gets confirmation message.........................................passed
+And user signsout of the app................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="open a new bank account" name="user opens new account - #1.1" time="18.598">
+<system-out><![CDATA[
+Given user opens the application............................................passed
+When user login with "Sunflower" and "flower"...............................passed
+And user was redirected to accounts overview page...........................passed
+And user clicks open new account link.......................................passed
+Then user was redirected to open account page...............................passed
+And user selects type of account to open "CHECKING".........................passed
+And user clicks open new account button.....................................passed
+Then user checks for account number.........................................passed
+And user clicks account number link.........................................passed
+Then user checks account details............................................passed
+And user clicks funds transfer received.....................................passed
+Then user checks transaction details........................................passed
+And user logsout of the application.........................................passed
+]]></system-out>
+</testcase>
+<testcase classname="open a new bank account" name="user opens new account - #1.2" time="24.56">
+<system-out><![CDATA[
+Given user opens the application............................................passed
+When user login with "Sunflower" and "flower"...............................passed
+And user was redirected to accounts overview page...........................passed
+And user clicks open new account link.......................................passed
+Then user was redirected to open account page...............................passed
+And user selects type of account to open "SAVINGS"..........................passed
+And user clicks open new account button.....................................passed
+Then user checks for account number.........................................passed
+And user clicks account number link.........................................passed
+Then user checks account details............................................passed
+And user clicks funds transfer received.....................................passed
+Then user checks transaction details........................................passed
+And user logsout of the application.........................................passed
+]]></system-out>
+</testcase>
+<testcase classname="check all accounts and its details" name="user checks balance in all accounts" time="18.329">
+<system-out><![CDATA[
+Given user opens the application............................................passed
+When user login with "john_andrew" and "John@1245"..........................passed
+And user was redirected to accounts overview page...........................passed
+Then user checks accounts balance amount....................................passed
+And user logsout of the application.........................................passed
+]]></system-out>
+</testcase>
+<testcase classname="paying a bill from account" name="user pays bill from account" time="22.782">
+<system-out><![CDATA[
+Given user opens the application............................................passed
+When user login with "Luce_Walker" and "Luce@1234"..........................passed
+And user was redirected to accounts overview page...........................passed
+And user clicks pay bill link...............................................passed
+And user enters payee details...............................................passed
+Then user gets payment confirmation message.................................passed
+And user checks transactions................................................passed
+And user logsout............................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="transfer money from account to account" name="money transaction" time="27.027">
+<system-out><![CDATA[
+Given user opens the application............................................passed
+When user login with "john_andrew" and "John@1245"..........................passed
+Then user checks accounts...................................................passed
+And user clicks transfer funds link.........................................passed
+And user enters amount to transfer "400.00".................................passed
+And user selects accounts and clicks transfer button........................passed
+Then user checks transfer complete message..................................passed
+Then user checks account balance in accounts overview.......................passed
+Then user checks debited account details....................................passed
+Then user checks credited account details...................................passed
+Then user logsout...........................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="transfer money from account to account" name="find account transactions" time="31.694">
+<system-out><![CDATA[
+Given user opens the application............................................passed
+When user login with "john_andrew" and "John@1245"..........................passed
+Then user clicks find transactions link.....................................passed
+Then user checks transaction results by amount..............................passed
+Then user checks transaction results by date................................passed
+Then user checks transaction results by date range..........................passed
+Then user gets transaction id...............................................passed
+Then user checks transaction results by transactionid.......................passed
+Then user logsout...........................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
