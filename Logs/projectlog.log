@@ -2319,3 +2319,12 @@
 [INFO ] 2024-08-15 19:48:29.319 [main] DemoStoreTestng - Entered password: John@1245
 [INFO ] 2024-08-15 19:48:30.943 [main] DemoStoreTestng - Clicked login button
 [INFO ] 2024-08-15 19:48:43.311 [main] DemoStoreTestng - Scenario execution over
+[INFO ] 2025-03-21 13:47:52.147 [main] DemoStoreTestng - Scenario execution started
+[INFO ] 2025-03-21 13:47:55.357 [main] DemoStoreTestng - application opened
+[INFO ] 2025-03-21 13:47:55.444 [main] DemoStoreTestng - Entered username: john_andrew
+[INFO ] 2025-03-21 13:47:55.490 [main] DemoStoreTestng - Entered password: John@1245
+[INFO ] 2025-03-21 13:47:55.538 [main] DemoStoreTestng - Clicked login button
+[INFO ] 2025-03-21 13:47:57.088 [main] DemoStoreTestng - https://parabank.parasoft.com/parabank/overview.htm
+[INFO ] 2025-03-21 13:47:57.115 [main] DemoStoreTestng - Accounts overview page opened
+[INFO ] 2025-03-21 13:47:58.046 [main] DemoStoreTestng - Logs out of the application
+[INFO ] 2025-03-21 13:47:58.047 [main] DemoStoreTestng - Scenario execution over
